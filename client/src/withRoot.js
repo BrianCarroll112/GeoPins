@@ -1,3 +1,6 @@
+// creating base theme/baseline styles for exporting "withRoot" using MaterialUI
+
+
 import React from "react";
 import { MuiThemeProvider, createMuiTheme } from "@material-ui/core/styles";
 import purple from "@material-ui/core/colors/purple";
